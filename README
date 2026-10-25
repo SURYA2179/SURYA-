@@ -1,102 +1,77 @@
-# Hi, I'm Surya GS 👋
+# Surya GS
 
-### Aspiring VLSI / ASIC Design Engineer | RTL Design | Physical Design
+**Aspiring ASIC / VLSI Design Engineer**  
+RTL Design · Digital IC Design · Functional Verification · Synthesis · Physical Design
 
-B.E. Electronics and Communication Engineering student at **Mahendra Engineering College**, graduating in **2027**. I'm building practical skills in digital IC design, RTL development, verification, synthesis, timing analysis, and ASIC implementation.
+B.E. Electronics and Communication Engineering student at **Mahendra Engineering College**, graduating in **2027**. Focused on building practical semiconductor-design skills across digital RTL development, verification, synthesis, timing analysis, and ASIC implementation workflows.
 
-- 🎓 **Degree:** B.E. Electronics and Communication Engineering
-- 🧭 **Career focus:** VLSI, ASIC Design, RTL Design, Physical Design
-- 💻 **HDLs & programming:** Verilog HDL, SystemVerilog, Python, C, C++, Java
-- 🛠️ **EDA exposure:** Cadence Virtuoso, Genus, Innovus, Xcelium, Pegasus, PSpice
-- 📍 **Location:** Tamil Nadu, India
-- 🤝 **Open to:** Semiconductor internships, entry-level opportunities, and technical collaborations
+[LinkedIn](https://www.linkedin.com/in/surya-gs-a433ab331) · [GitHub](https://github.com/SURYA2179)
 
 ---
 
-## Technical Skills
+## Professional Focus
 
-**RTL & Digital Design**
-- Digital logic design and finite-state machines (FSMs)
-- Verilog RTL development and simulation
-- Functional verification fundamentals
-- Logic synthesis and static timing analysis (STA)
-- Critical-path analysis and PPA concepts
+- **Digital design:** Verilog HDL, FSM design, RTL coding, simulation and debugging
+- **Verification:** Testbench development, functional checks, waveform analysis, SystemVerilog fundamentals
+- **ASIC flow:** Logic synthesis, static timing analysis (STA), critical-path analysis, PPA concepts
+- **Physical design:** Floorplanning, placement and routing, DRC/LVS concepts
+- **EDA tools:** Cadence Virtuoso, Genus, Innovus, Xcelium, Pegasus and PSpice
+- **Programming:** Python, C, C++, Java
 
-**ASIC Implementation & Verification**
-- Placement and routing concepts
-- Design Rule Checking (DRC) and Layout Versus Schematic (LVS)
-- CMOS fundamentals and transistor-level design
+*Tools and topics listed reflect learning and practical exposure; proficiency varies by tool and workflow.*
 
-**Programming**
-- Verilog HDL, SystemVerilog, Python, C, C++, Java
+## Selected Projects
 
-**EDA Tools**
-- Cadence Virtuoso, Genus, Innovus, Xcelium, Pegasus, PSpice
-
----
-
-## Projects
-
-### 1. Confidential Digital ASIC Design Project
-**Domain:** Digital VLSI · RTL Design · ASIC Methodologies  
+### Confidential Digital ASIC Design Project
+**Digital VLSI · RTL Design · ASIC Methodologies**  
 **Status:** Ongoing
 
-Developing a digital hardware-design project while exploring RTL development, functional verification, synthesis, timing analysis, and ASIC design workflows.
+A confidential digital hardware-design project used to explore RTL development, functional verification, synthesis, timing analysis, and ASIC design workflows.
 
-*Source code, architecture, implementation details, and design-specific results are intentionally withheld to protect confidentiality.*
+Implementation details, source code, architecture, and design-specific results are intentionally not published.
 
-### 2. FPGA–TinyML Speech Command Recognition
-**Domain:** FPGA · Embedded AI · TinyML
+### FPGA–TinyML Speech Command Recognition
+**FPGA · Embedded AI · Signal Processing**
 
-Exploring lightweight speech-command recognition and hardware-oriented implementation concepts, including signal preprocessing, feature extraction, and model evaluation.
+Exploring lightweight speech-command recognition concepts, including signal preprocessing, feature extraction, and FPGA-oriented implementation considerations.
 
-**Technologies / topics:** Python, TinyML, signal processing, FPGA concepts
+### AI-Powered Smart Pen for Assistive Learning
+**Assistive Technology · AI · Embedded Systems**
 
-### 3. AI-Powered Smart Pen for Assistive Learning
-**Domain:** Assistive Technology · AI · Embedded Systems
+Concept exploration for combining sensor-assisted writing input with handwriting-pattern analysis and AI-supported feedback.
 
-Concept focused on combining sensor-assisted writing input with handwriting-pattern analysis and AI-supported feedback for assistive learning.
-
-**Technologies / topics:** Python, machine learning, sensors, embedded systems
-
-### 4. Fake News Detection — Mini Project
-**Domain:** Machine Learning · Natural Language Processing
+### Fake News Detection — Mini Project
+**Python · Machine Learning · Natural Language Processing**
 
 Mini-project exploring text preprocessing, feature extraction, and classification approaches for fake-news detection.
 
-**Recognition:** INNOVAX-2025 Mini Project Expo, ECE Department, Mahendra Engineering College
+**Recognition:** INNOVAX-2025 Mini Project Expo, ECE Department, Mahendra Engineering College.
 
-**Technologies:** Python, machine learning, natural language processing
+> Project descriptions should be updated as implementation progresses. Repositories, testbenches, and results will be linked here when they are ready to share.
 
----
+## Industry Experience
 
-## Experience
-
-### Digital Electronics & VLSI Intern
-**Codec Technologies Pvt. Ltd.** · November 2025 – February 2026
+### Digital Electronics & VLSI Intern — Codec Technologies Pvt. Ltd.
+**November 2025 – February 2026**
 
 - Gained exposure to digital electronics and VLSI design methodologies.
 - Worked with RTL design, simulation, and synthesis concepts using Cadence tools.
 - Studied digital-module verification, logic optimization, and backend implementation concepts.
 
-### Embedded Systems Intern
-**Caliber Embedded Technologies India Pvt. Ltd.** · June 2025
+### Embedded Systems Intern — Caliber Embedded Technologies India Pvt. Ltd.
+**June 2025**
 
 - Received training in embedded-system design and development.
 - Studied microcontrollers, embedded programming, and hardware interfacing.
 - Explored real-time systems and embedded applications.
 
----
-
 ## Achievements
 
-- **Top 3% — Rank 39 out of 1,250 participants:** AI/ML-Powered FPGA Design & Simulation Hackathon, NIT Jamshedpur, Industry Academia Conclave 2025, in collaboration with VLSI For All.
-- **Resource Person:** Delivered “High Performance System Design using EDA Tools” at Mahendra Engineering College on March 9, 2026.
-- **INNOVAX-2025 Mini Project Expo:** Recognition for the Fake News Detection mini-project.
+- **Rank 39 out of 1,250 participants (Top 3%)** — AI/ML-Powered FPGA Design & Simulation Hackathon, NIT Jamshedpur, Industry Academia Conclave 2025, in collaboration with VLSI For All.
+- **Resource Person** — Delivered “High Performance System Design using EDA Tools” at Mahendra Engineering College on March 9, 2026.
+- **INNOVAX-2025 Mini Project Expo** — Recognition for the Fake News Detection mini-project.
 
----
-
-## Certifications & Training
+## Certifications & Technical Training
 
 - Cadence RTL-to-GDSII Flow v6.0 — 2026
 - Cadence Basic Static Timing Analysis v3.0 — 2026
@@ -105,36 +80,24 @@ Mini-project exploring text preprocessing, feature extraction, and classificatio
 - VLSI for Beginners — 7-Day Training, VLSI For All, January 2026
 - PIC Microcontroller Hands-on Training — PSG Institute of Technology, Yukta 2K25
 
----
-
 ## Education
 
-**Bachelor of Engineering (B.E.), Electronics and Communication Engineering**  
-Mahendra Engineering College, Namakkal, Tamil Nadu
+**B.E. — Electronics and Communication Engineering**  
+Mahendra Engineering College, Namakkal, Tamil Nadu  
+**Expected graduation:** 2027 · **CGPA:** 7.55 / 10
 
-- **Expected graduation:** 2027
-- **CGPA:** 7.55 / 10
+## Current Development Priorities
 
----
+- Build synthesizable RTL modules with clear interfaces and documented FSMs.
+- Write self-checking testbenches and maintain reproducible simulation instructions.
+- Review timing reports and understand synthesis trade-offs.
+- Document actual results with logs and waveforms rather than unverified claims.
+- Explore Python scripting for EDA workflow automation.
 
-## Current Learning Goals
+## Career Interests
 
-- Strengthen Verilog RTL design, debugging, and self-checking testbenches.
-- Improve SystemVerilog verification fundamentals.
-- Practice synthesis and static timing analysis.
-- Understand floorplanning, placement, routing, and physical verification.
-- Publish reproducible projects with test plans, simulation logs, and waveform evidence.
-- Explore Python automation for EDA workflows.
-
----
-
-## Connect
-
-- **GitHub:** [@SURYA2179](https://github.com/SURYA2179)
-- **LinkedIn:** [Surya GS](https://www.linkedin.com/in/surya-gs-a433ab331)
-
-I'm interested in connecting with engineers, recruiters, and students working in semiconductor design, VLSI, ASIC implementation, and embedded systems.
+Interested in semiconductor internships and early-career opportunities in **ASIC Design, RTL Design, Digital Design, Design Verification, and Physical Design**.
 
 ---
 
-*Design. Verify. Optimize. Innovate.*
+*Design with intent. Verify with evidence. Improve through iteration.*
