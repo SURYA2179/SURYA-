@@ -1,0 +1,54 @@
+name: Traffic-light RTL simulation
+
+on:
+  push:
+    paths:
+      - 'projects/verilog-traffic-light-controller/**'
+      - '.github/workflows/traffic-light-controller-sim.yml'
+  pull_request:
+    paths:
+      - 'projects/verilog-traffic-light-controller/**'
+      - '.github/workflows/traffic-light-controller-sim.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  simulate:
+    name: Compile and simulate RTL
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    defaults:
+      run:
+        working-directory: projects/verilog-traffic-light-controller
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install Icarus Verilog
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y iverilog
+
+      - name: Compile RTL and testbench
+        run: |
+          set -o pipefail
+          iverilog -g2012 -Wall -o traffic_light_sim rtl/traffic_light_controller.v tb/tb_traffic_light_controller.v 2>&1 | tee compile.log
+
+      - name: Run self-checking simulation
+        run: |
+          set -o pipefail
+          vvp traffic_light_sim 2>&1 | tee simulation.log
+
+      - name: Upload simulation log and waveform
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: traffic-light-controller-simulation-evidence
+          path: |
+            projects/verilog-traffic-light-controller/compile.log
+            projects/verilog-traffic-light-controller/simulation.log
+            projects/verilog-traffic-light-controller/traffic_light_controller.vcd
+          if-no-files-found: warn
+          retention-days: 30
