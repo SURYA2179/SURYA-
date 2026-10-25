@@ -1,5 +1,7 @@
 # Verilog Traffic Light Controller with Pedestrian Request
 
+[![Traffic-light RTL simulation](https://github.com/SURYA2179/SURYA-/actions/workflows/traffic-light-controller-sim.yml/badge.svg)](https://github.com/SURYA2179/SURYA-/actions/workflows/traffic-light-controller-sim.yml)
+
 A small, synthesizable Verilog RTL project demonstrating an FSM-based two-road traffic light controller with a latched pedestrian request.
 
 ## Design overview
