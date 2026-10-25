@@ -1,0 +1,196 @@
+# Hi, I'm Surya GS 
+
+### Aspiring VLSI / ASIC Design Engineer | RTL Design | Physical Design | EDA Tools
+
+B.E. Electronics and Communication Engineering student at **Mahendra Engineering College**, expected to graduate in **2027**. Interested in semiconductor technology, digital IC design, ASIC implementation, timing analysis, and hardware-accelerated intelligent systems.
+
+I am building practical skills in Verilog RTL design, simulation, synthesis, and ASIC design methodologies while exploring opportunities in the semiconductor industry.
+
+-  **Degree:** B.E. Electronics and Communication Engineering
+-  **Primary Interests:** VLSI Design, RTL Design, ASIC Design, Physical Design
+-  **EDA Exposure:** Cadence design and implementation tools
+-  **Currently Learning:** RTL verification, static timing analysis, and RTL-to-GDSII workflows
+-  **Career Goal:** VLSI / ASIC Design Engineer
+-  **Location:** Tamil Nadu, India
+-  **Open to:** Relevant internships, entry-level opportunities, and technical collaborations
+
+---
+
+##  Technical Skills
+
+### Hardware Description & Programming Languages
+
+- Verilog HDL
+- SystemVerilog
+- Python
+- C / C++
+- Java
+
+### EDA Tools
+
+- Cadence Virtuoso
+- Cadence Genus
+- Cadence Innovus
+- Cadence Xcelium
+- Cadence Pegasus
+- Cadence PSpice
+
+### VLSI & ASIC Design Concepts
+
+- Digital Logic Design
+- RTL Design and Simulation
+- Finite State Machines (FSMs)
+- Logic Synthesis
+- Static Timing Analysis (STA)
+- Timing Constraints and Critical Path Analysis
+- Placement and Routing
+- Design Rule Checking (DRC)
+- Layout Versus Schematic (LVS)
+- Power, Performance, and Area (PPA) Analysis
+- CMOS Fundamentals and Transistor-Level Design
+
+*Skills reflect my learning and tool exposure; hands-on proficiency varies by tool and workflow.*
+
+---
+
+##  Featured Projects
+
+### 1. Digital Pacemaker Controller ASIC — Ongoing
+
+**Domain:** Digital VLSI | RTL Design | Biomedical Electronics
+
+Developing a digital pacemaker controller model using Verilog HDL to explore heart-rate monitoring logic and pacing-control behavior.
+
+**Project Highlights**
+- Developing an FSM-based digital controller.
+- Implementing heart-signal detection and rate-monitoring logic.
+- Exploring threshold-based bradycardia and tachycardia detection.
+- Working toward RTL simulation and functional verification.
+- Exploring synthesis and the RTL-to-GDSII ASIC implementation flow.
+- Studying timing, area, and power reports to understand implementation trade-offs.
+
+**Technologies:** Verilog HDL, FSM Design, RTL Simulation, Cadence EDA, ASIC Design Flow, STA
+
+**Current Status:** In progress — implementation and validation stages depend on the latest project results.
+
+> This is a digital design and simulation project, not a clinically validated or implant-ready medical device.
+
+### 2. Real-Time FPGA–TinyML Speech Command Recognition
+
+**Domain:** FPGA | Embedded AI | TinyML
+
+Exploring a hardware-accelerated speech-command recognition system using a lightweight machine-learning approach.
+
+**Project Focus**
+- Speech preprocessing and feature extraction.
+- Lightweight classification for command recognition.
+- FPGA-oriented inference and hardware/software trade-offs.
+- Evaluation of latency and resource utilization where measurements are available.
+
+**Technologies:** FPGA, TinyML, Python, Signal Processing, Machine Learning
+
+**Status:** Update this status to match the actual implementation stage.
+
+### 3. AI-Powered Smart Pen for Assistive Learning
+
+**Domain:** Assistive Technology | Embedded Systems | AI
+
+Concept for a sensor-assisted writing system intended to analyze handwriting patterns and provide feedback to support learning.
+
+**Project Focus**
+- Handwriting-pattern and letter-formation analysis.
+- Sensor-based data acquisition concepts.
+- AI-assisted feedback and assistive-learning applications.
+- Embedded-system integration possibilities.
+
+**Technologies:** Python, Machine Learning, Sensors, Embedded Systems
+
+**Status:** Concept / development stage — specify implemented features accurately.
+
+### 4. Fake News Detection — Mini Project
+
+**Domain:** Artificial Intelligence | Natural Language Processing
+
+A mini-project focused on exploring automated fake-news classification using text analysis and machine-learning techniques.
+
+**Project Focus**
+- Text preprocessing and feature representation.
+- Classification of news content.
+- Evaluation of model performance where applicable.
+
+**Recognition:** Position secured at INNOVAX-2025 Mini Project Expo, ECE Department, Mahendra Engineering College.
+
+**Technologies:** Python, Machine Learning, Natural Language Processing
+
+---
+
+## Experience
+
+### Digital Electronics & VLSI Intern
+**Codec Technologies Pvt. Ltd.** | November 2025 – February 2026
+
+- Gained exposure to digital electronics and VLSI design methodologies.
+- Worked with RTL design, simulation, and synthesis concepts using Cadence tools.
+- Studied digital-module verification and logic optimization.
+- Explored backend implementation concepts, including placement, routing, and PPA analysis.
+
+### Embedded Systems Intern
+**Caliber Embedded Technologies India Pvt. Ltd.** | June 2025
+
+- Received training in embedded-system design and development.
+- Studied microcontrollers, embedded programming, and hardware interfacing.
+- Explored real-time system fundamentals and embedded applications.
+
+---
+
+##  Achievements
+
+- **Top 3% — Rank 39 out of 1,250 participants:** AI/ML-Powered FPGA Design & Simulation Hackathon, NIT Jamshedpur, Industry Academia Conclave 2025, in collaboration with VLSI For All.
+- **Resource Person:** Delivered a session titled “High Performance System Design using EDA Tools” at Mahendra Engineering College on March 9, 2026.
+- **INNOVAX-2025 Mini Project Expo:** Secured a position for the Fake News Detection project.
+
+---
+
+## Certifications & Training
+
+- Cadence RTL-to-GDSII Flow v6.0 — 2026
+- Cadence Basic Static Timing Analysis v3.0 — 2026
+- Cadence SystemVerilog for Design and Verification v25.03 — 2025
+- Semiconductor Circuit Design & Simulation — VIT Vellore, sponsored by the British Council, January 2026
+- VLSI for Beginners — 7-Day Training, VLSI For All, January 2026
+- PIC Microcontroller Hands-on Training — PSG Institute of Technology, Yukta 2K25
+
+---
+
+##  Education
+
+**Bachelor of Engineering — Electronics and Communication Engineering**
+
+Mahendra Engineering College, Namakkal, Tamil Nadu
+
+- Expected Graduation: 2027
+- CGPA: 7.98
+
+---
+
+## Current Learning Goals
+
+- Strengthening Verilog RTL design and debugging.
+- Improving SystemVerilog verification fundamentals.
+- Practicing synthesis and timing-report analysis.
+- Understanding floorplanning, placement, routing, and physical verification.
+- Building reproducible hardware-design projects with documentation and testbenches.
+- Exploring Python automation for EDA workflows.
+
+---
+
+##  Connect With Me
+
+- **GitHub:** https://github.com/SURYA2179
+- **LinkedIn:** https://www.linkedin.com/in/surya-gs-a433ab331
+
+I'm interested in connecting with engineers, recruiters, and students working in VLSI, ASIC design, semiconductor technology, and embedded systems.
+
+---
+
+*“Design. Verify. Optimize. Innovate.”*
