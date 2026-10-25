@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 // Educational Verilog FSM: two-road traffic controller with pedestrian request.
 // Light encodings: RED=2'b00, YELLOW=2'b01, GREEN=2'b10.
 // Not intended for real-world traffic control.
