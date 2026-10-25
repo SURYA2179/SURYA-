@@ -30,6 +30,13 @@ A confidential digital hardware-design project used to explore RTL development, 
 
 Implementation details, source code, architecture, and design-specific results are intentionally not published.
 
+### Verilog Traffic Light Controller with Pedestrian Request
+**Verilog HDL · FSM Design · Functional Verification**
+
+A separate, shareable RTL portfolio project featuring a parameterized traffic-light FSM, latched pedestrian request, self-checking testbench, verification plan, and an automated simulation workflow designed to retain logs and waveform evidence.
+
+[View project files and verification instructions](https://github.com/SURYA2179/SURYA-/tree/main/projects/verilog-traffic-light-controller)
+
 ### FPGA–TinyML Speech Command Recognition
 **FPGA · Embedded AI · Signal Processing**
 
@@ -47,7 +54,7 @@ Mini-project exploring text preprocessing, feature extraction, and classificatio
 
 **Recognition:** INNOVAX-2025 Mini Project Expo, ECE Department, Mahendra Engineering College.
 
-> Project descriptions should be updated as implementation progresses. Repositories, testbenches, and results will be linked here when they are ready to share.
+> Public project code and verification materials are linked below where available. Confidential project source, implementation details, and design-specific results remain private.
 
 ## Industry Experience
 
