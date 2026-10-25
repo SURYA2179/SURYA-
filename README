@@ -35,7 +35,9 @@ Implementation details, source code, architecture, and design-specific results a
 
 A separate, shareable RTL portfolio project featuring a parameterized traffic-light FSM, latched pedestrian request, self-checking testbench, verification plan, and an automated simulation workflow designed to retain logs and waveform evidence.
 
-[View project files and verification instructions](https://github.com/SURYA2179/SURYA-/tree/main/projects/verilog-traffic-light-controller)
+[![Traffic-light RTL simulation](https://github.com/SURYA2179/SURYA-/actions/workflows/traffic-light-controller-sim.yml/badge.svg)](https://github.com/SURYA2179/SURYA-/actions/workflows/traffic-light-controller-sim.yml)
+
+[Project source and verification plan](https://github.com/SURYA2179/SURYA-/tree/main/projects/verilog-traffic-light-controller) · [Latest successful simulation run](https://github.com/SURYA2179/SURYA-/actions/runs/40168310846)
 
 ### FPGA–TinyML Speech Command Recognition
 **FPGA · Embedded AI · Signal Processing**
