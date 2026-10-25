@@ -57,7 +57,7 @@ module tb_traffic_light_controller;
         input [1:0] expected_ns;
         input [1:0] expected_ew;
         input       expected_walk;
-        input [8*40-1:0] check_name;
+        input [8*80-1:0] check_name;
         begin
             checks = checks + 1;
             if ((ns_light !== expected_ns) ||
@@ -121,7 +121,6 @@ module tb_traffic_light_controller;
         #1;
         check_outputs(GREEN, RED, 1'b0, "second reset clears request state");
 
-        @(negedge clk);
         ped_request = 1'b1;
         @(negedge clk); // one sampled clock edge has occurred
         ped_request = 1'b0;
